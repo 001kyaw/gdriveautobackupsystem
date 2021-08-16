@@ -4,7 +4,7 @@ ref: https://github.com/modbots
 
 
 Google Drive to Google Drive Auto Backup System ဖြစ်ပါတယ်။
-မိမိအသုံးပြုချင်တဲ့ drive တွေမှာ 001kyawshin@googlegroups.com 
+မိမိအသုံးပြုချင်တဲ့ drive တွေမှာ backupservices@googlegroups.com 
 ကို content manager ထည့်ထားပေးပါ။
 
 Heroku free user ဆိုပါက တစ်လလျှင် နာရီ ၄၅၀ သာရပါမည်။
